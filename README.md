@@ -1,7 +1,7 @@
 ![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/94918200/210587557-3b68176a-2792-4c14-aab2-b09a4a4bb0b6.png)
 
 
-### Hi there 👋
+### Hi there, I'm Ermane 👋 
 
 <!--
 **EPourmo/EPourmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
