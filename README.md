@@ -33,3 +33,10 @@ I'm a junior front-end developer
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EPourmo)](https://github.com/EPourmo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EPourmo&layout=compact)](https://github.com/EPourmo)
