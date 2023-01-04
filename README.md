@@ -38,5 +38,6 @@ I'm a junior front-end developer
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EPourmo)](https://github.com/EPourmo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EPourmo&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EPourmo&layout=compact)](https://github.com/EPourmo)
