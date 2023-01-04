@@ -35,9 +35,4 @@ I'm a junior front-end developer
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=epourmo)](https://github.com/epourmo)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EPourmo&show_icons=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EPourmo&layout=compact)](https://github.com/EPourmo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EPourmo&hide=contribs,prs)
