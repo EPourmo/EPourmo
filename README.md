@@ -10,7 +10,7 @@ I'm a junior front-end developer
 
 🧠 I'm currently learning TypeScript by coding some projects
 
-👯‍♀️ I'm looking to collaborate with a great team, sharing information and tips on development
+👯‍♀️ I'm looking forward to working with a great team, sharing information and tips on development
 
 ⚡️ I want to become a full stack developer by learning Node js
 
