@@ -1,4 +1,4 @@
-![DALL·E 2023-01-20 09 28 45 - laptop in the space inside a rocket surrounded by stars ans planets](https://user-images.githubusercontent.com/94918200/213650546-ad8b11d3-9309-4d34-9a06-ae1e65b627f4.png)
+![Black Minimalist Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/94918200/213651361-3d741049-efc9-4a25-8b93-35edee065be5.png)
 
 # Hi, I'm Ermane! 👋
 
