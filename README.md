@@ -12,7 +12,7 @@ I'm a junior front-end developer
 
 👯‍♀️ I'm looking forward to working with a great team, sharing information and tips on development
 
-⚡️ I want to become a full stack developer by learning Node js
+⚡️ I want to become a full stack developer by learning Node js or / and Python 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pourmohtasham/)
