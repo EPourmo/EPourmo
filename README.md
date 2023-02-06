@@ -6,13 +6,13 @@
 ## 🚀 About Me
 I'm a junior front-end developer
 
-👩‍💻 I'm currently looking for a front-end developer position in France
+👩‍💻 I'm currently looking for a front-end developer position in France or a training
 
 🧠 I'm currently learning TypeScript by coding some projects
 
 👯‍♀️ I'm looking forward to working with a great team, sharing information and tips on development
 
-⚡️ I want to become a full stack developer by learning Node js or / and Python 
+⚡️ I want to become a full stack developer
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pourmohtasham/)
